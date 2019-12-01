@@ -1,1 +1,1 @@
-# Image-Filtering
+# Graph Application in Image Filtering
